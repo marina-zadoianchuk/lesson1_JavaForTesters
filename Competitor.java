@@ -1,5 +1,5 @@
 package lesson1;
-
+//test
 public interface Competitor {
     void run(int dist);
 
