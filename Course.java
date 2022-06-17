@@ -1,5 +1,5 @@
 package lesson1;
-
+//test
 public class Course {
     Barrier[] course = new Barrier[3];
     // Создаем полосу препятствий
